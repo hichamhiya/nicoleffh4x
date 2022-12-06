@@ -1,20 +1,6 @@
 {
-	"version": "said v3",
+	"version": "FFH4X V1",
 
-
-
-	"adsImage1": "https://play-lh.googleusercontent.com/Wx6LaAo108lBqTSTtAruPHPsbx61qE-EDVq0L1rg49cnYWT_6qxhJi3Tdox6agACZ-FS=w2560-h1440",
-"adsImage2": "https://play-lh.googleusercontent.com/KawyM4rNQ1x9PRGAF1phOOVpOqk1qvhPUkVQGLIGo1a_xpe4VhesDCgSq2vXabCWHwY=w2560-h1440",
-"adsImage3": "https://play-lh.googleusercontent.com/9P9vkvN9XorxUAh__o_nMs7kgPpB8dfqnArGm9cMKiV_DwgxjeKiIvYB5ByaQkQ_emtA=w2560-h1440",
-"adsImage4": "https://play-lh.googleusercontent.com/ity4YuIAEbJN-t2X3Lzfa6ej1VkIkbnZzIlzm8gK314-TfYuix37ro8MPQjXLoOe-bU=w2560-h1440",
-"adsImage5": "https://play-lh.googleusercontent.com/8CI3JnwydeafBMLyuc29j-G4YKAigK-57hUPW_h_QHgdOw7ZFZlgMd06HWv-ZsuxY0o=w2560-h1440",
-
-
-"adslink1": "https://play.google.com/store/apps/details?id=com.superking.parchisi.star",
-"adslink2": "https://play.google.com/store/apps/details?id=com.yalla.yallaparchisi",
-"adslink3": "https://play.google.com/store/apps/details?id=com.yallatech.yallachat",
-"adslink4": "https://play.google.com/store/apps/details?id=com.yalla.wahachat3d",
-"adslink5": "https://play.google.com/store/apps/details?id=com.clubcooee.cooee",
 
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
@@ -24,7 +10,7 @@
 	
 	"ironsdk": "114b18dc5",
 	
-	
+	"appodealkey": "00000000000",
 
 	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
 	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
@@ -34,10 +20,10 @@
 
 
 
-"adsSwitch detail ": " 1:iron 2:applovin 3:admob 0:auto",
-"adsSwitchInter": "3",
-"adsSwitchBanner": "3",
-"adsSwitchReward": "3",
+"adsSwitch detail ": " 1:iron 2:applovin 3:aplodeal 4:admob 0:auto",
+"adsSwitchInter": "4",
+"adsSwitchBanner": "4",
+"adsSwitchReward": "4",
 
 "adscounter": "1"
 
